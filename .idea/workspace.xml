@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="491e4a96-293c-4c31-962e-16598432c394" name="Changes" comment="Delete out">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    <list default="true" id="491e4a96-293c-4c31-962e-16598432c394" name="Changes" comment="Create Dockerfile">
+      <change afterPath="$PROJECT_DIR$/1.Компиляция_и_запуск_из_консоли.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.Добавление_документации.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Установка_докер_и_скачивание_образа.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Создание_контейнера_на_основе_докерфайла.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Результат_работы_контейнера.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,12 +120,29 @@
       <option name="project" value="LOCAL" />
       <updated>1708258231280</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Delete out">
+      <option name="closed" value="true" />
+      <created>1708261503343</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708261503343</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create Dockerfile">
+      <option name="closed" value="true" />
+      <created>1708261554156</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708261554156</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Delete out" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete out" />
+    <MESSAGE value="Create Dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Dockerfile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
